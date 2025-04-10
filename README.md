@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ## Overview
 
-This repository contains scripts, configurations, and documentation related to the migration of a large Splunk SmartStore cluster (50+ indexers and associated data) from one Amazon S3 SmartStore cloud environment to a new one. The primary focus is on automating and documenting the data transfer and infrastructure setup processes for efficiency and clarity.
+This repository contains scripts, configurations, and documentation related to the migration of a large Splunk SmartStore cluster from one Amazon S3 SmartStore cloud environment to a new one. The primary focus is on automating and documenting the data transfer and infrastructure setup processes for efficiency and clarity.
 
 ## Contents
 
