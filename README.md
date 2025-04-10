@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains scripts and documentation related to the migration of a large Splunk SmartStore cluster (50+ indexers and associated data) from one Amazon S3 SmartStore cloud environment to a new one. The primary focus is on automating the data transfer using AWS DataSync.
+This repository contains scripts and documentation related to the migration of a large Splunk SmartStore cluster from one Amazon S3 SmartStore cloud environment to a new one. The primary focus is on automating the data transfer using AWS DataSync.
 
 ## Contents
 
